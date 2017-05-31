@@ -1,3 +1,3 @@
 # Android-Utilities
 
-## Helpfull Android Utilities
+## Helpful Android Utilities
