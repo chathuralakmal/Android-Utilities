@@ -122,7 +122,7 @@ public class MyLocation {
 }
 
 
-
+/** Implementation Part **/
         MyLocation.LocationResult locationResult = new MyLocation.LocationResult(){
             @Override
             public void gotLocation(Location location){
